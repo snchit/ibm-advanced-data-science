@@ -130,5 +130,6 @@ dmypy.json
 *.class
 *.log
 
-data/
+*.json*
+*.parquet*
 *.mp4
