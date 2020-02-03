@@ -1,3 +1,6 @@
 [submodule "coursera"]
 	path = coursera
 	url = git@github.com:IBM/coursera.git
+[submodule "Course-02-Advanced-ML-and-Signal-Processing/HMP_Dataset"]
+	path = Course-02-Advanced-ML-and-Signal-Processing/HMP_Dataset
+	url = git@github.com:wchill/HMP_Dataset.git
